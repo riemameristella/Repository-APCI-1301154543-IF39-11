@@ -1,6 +1,12 @@
-Program Hello;
-Uses Crt;
-Begin
-  ClrScr;
-  Writeln(‘Hello World’);
-End
+﻿Program APCI-1301154543;
+            Uses Crt;
+            Begin
+                ClrScr;
+                Writeln(‘Hello’);
+                Writeln(‘1301154543’);
+                Writeln(‘RiemaMeristellaSK’);
+                Writeln(‘IF39-11’);
+                Writeln(‘FikriRazzaq’);
+                Writeln(‘1301154109’);
+                Writeln(‘Modul 6’);
+            End.
